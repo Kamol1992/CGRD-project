@@ -1,0 +1,14 @@
+# Konfiguracja lokalna (prawdziwy .env z hasłami)
+.env
+
+# Logi / cache
+*.log
+
+# Pliki IDE
+/.idea/
+/.vscode/
+/*.code-workspace
+
+# Systemowe
+.DS_Store
+Thumbs.db
