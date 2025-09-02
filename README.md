@@ -15,7 +15,7 @@ This is a simple PHP project with a MySQL database. It includes basic functional
 
 #1. Clone the repository:
    ```bash
-   git clone https://github.com/Kamol1992/cgrd-projekt.git
+   git clone https://github.com/Kamol1992/CGRD-project.git
 
 #2. Navigate to the project folder:
    cd cgrd-projekt
